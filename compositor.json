@@ -44,8 +44,8 @@
     },
     {
       "component": "header",
-      "heading": "compositor",
-      "subhead": "Compositor test",
+      "heading": "Travis Gertz",
+      "subhead": "The portfolio of Travis James Gertz",
       "children": [
         {
           "component": "ui/TweetButton",
