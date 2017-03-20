@@ -57,6 +57,16 @@
           "user": "louderthan10",
           "repo": "compositor"
         }
+      ],
+      "links": [
+        {
+          "href": "https://louderthanten.com",
+          "text": "Louder Than Ten"
+        },
+        {
+          "href": "https://twitter.com/travisgertz",
+          "text": "Twitter"
+        }
       ]
     },
     {
