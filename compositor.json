@@ -7,29 +7,30 @@
   "title": "Compositor Test",
   "branch": "master",
   "style": {
-    "name": "Swiss",
+    "name": "Humanist",
     "componentSet": {
       "nav": "nav/BasicNav",
-      "header": "header/SwissHeader",
-      "article": "article/SwissArticle",
+      "header": "header/LightBannerHeader",
+      "article": "article/ReaderArticle",
       "footer": "footer/BasicFooter"
     },
-    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "fontFamily": "Athelas, Georgia, serif",
     "heading": {
-      "fontWeight": 700,
-      "letterSpacing": "-0.01em"
-    },
-    "layout": {
-      "fluid": true
+      "fontWeight": 400,
+      "textTransform": "uppercase",
+      "letterSpacing": "0.1em"
     },
     "colors": {
-      "text": "#000",
+      "text": "#121212",
       "background": "#fff",
-      "primary": "#05a",
-      "secondary": "#444",
-      "highlight": "#f30",
-      "border": "#ccc",
-      "muted": "#eee"
+      "primary": "#ee5544",
+      "secondary": "#005499",
+      "highlight": "#00bd78",
+      "border": "#ddd",
+      "muted": "#f3f3f3"
+    },
+    "layout": {
+      "maxWidth": 768
     }
   },
   "content": [
