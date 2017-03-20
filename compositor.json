@@ -34,15 +34,6 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/louderthan10/compositor",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
       "component": "header",
       "heading": "Travis Gertz",
       "subhead": "The portfolio of Travis James Gertz",
