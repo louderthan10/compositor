@@ -65,7 +65,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n\n"
+      "html": "<h1>Compositor test</h1>\n<p>Kinda don&apos;t get how this works. </p>\n<h2>Some markdown in the page</h2>\n<div>\nSome div\n</div>\n"
     },
     {
       "component": "footer",
